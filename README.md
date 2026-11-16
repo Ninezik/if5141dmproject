@@ -1,6 +1,4 @@
-# Data Mining Project
-
-Project Mata Kuliah Data Mining IF5141.
+# Project Mata Kuliah Data Mining IF5141
 
 ## Team Members
 - 23526010|ZIKRI NURZANI
