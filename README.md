@@ -14,3 +14,6 @@
 
 ## Ketentuan
 - https://drive.google.com/file/d/1z2dm1tqINnAu5SSPrnxj3ZPkvT6IfoWV/view?usp=sharing
+
+## datasets
+- https://drive.google.com/file/d/15vNQ04gd3lNsqdYutkG8khcsS-b1l3yG/view?usp=drive_link
