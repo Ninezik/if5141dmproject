@@ -10,3 +10,6 @@ Project Mata Kuliah Data Mining IF5141.
 - Python
 - Google Colab
 - GitHub
+
+##laporan
+https://docs.google.com/document/d/13U2wuRzsrpc9oNshEPawOxEn8oixWkoDmq9jsCrS4BU/edit?tab=t.jsarpbv6hlr3
