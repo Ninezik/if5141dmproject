@@ -10,7 +10,7 @@
 - GitHub
 
 ## Laporan
-- https://docs.google.com/document/d/13U2wuRzsrpc9oNshEPawOxEn8oixWkoDmq9jsCrS4BU/edit?tab=t.jsarpbv6hlr3
+- https://docs.google.com/document/d/1UAWZ0eh2OHCd9vdbjrabS1yxHxk49AGWkp1OzvF0tmI/edit?tab=t.0#heading=h.2sw6zqbo6jfr
 
 ## Ketentuan
 - https://drive.google.com/file/d/1z2dm1tqINnAu5SSPrnxj3ZPkvT6IfoWV/view?usp=sharing
