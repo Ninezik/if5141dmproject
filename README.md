@@ -23,6 +23,7 @@ then open the notebooks in VS Code and pick the `.venv` kernel (or just run `uv 
 
 - `notebook/01_preprocessing.ipynb` = task 1–3 (preprocessing, popularity, transactions)
 - `notebook/02_modeling.ipynb` = task 4–6 (apriori, fp-growth, rules, perf comparison)
+- `notebook/03_temporal.ipynb` = part E (temporal association per period)
 
 ## Laporan
 - https://docs.google.com/document/d/1UAWZ0eh2OHCd9vdbjrabS1yxHxk49AGWkp1OzvF0tmI/edit?tab=t.0#heading=h.2sw6zqbo6jfr
