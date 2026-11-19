@@ -1,0 +1,16 @@
+# data, get the zip from the drive link (see data/README.md)
+data/raw/
+data/processed/
+data/zip/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# os / editor
+.DS_Store
+.vscode/
