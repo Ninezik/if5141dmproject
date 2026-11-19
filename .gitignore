@@ -1,4 +1,5 @@
 # data, get the zip from the drive link (see data/README.md)
+data/dblp/
 data/raw/
 data/processed/
 data/zip/

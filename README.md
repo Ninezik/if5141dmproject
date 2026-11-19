@@ -21,6 +21,7 @@ more on the data folders in [data/README.md](data/README.md).
 
 then open the notebooks in VS Code and pick the `.venv` kernel (or just run `uv run --with jupyter jupyter lab`):
 
+- `notebook/00_extraction.ipynb` = how the raw parquet is made from the dblp xml dump (optional, the zip already has it)
 - `notebook/01_preprocessing.ipynb` = task 1–3 (preprocessing, popularity, transactions)
 - `notebook/02_modeling.ipynb` = task 4–6 (apriori, fp-growth, rules, perf comparison)
 - `notebook/03_temporal.ipynb` = part E (temporal association per period)
