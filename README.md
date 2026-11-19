@@ -9,6 +9,21 @@
 - Google Colab
 - GitHub
 
+## Setup
+we use [uv](https://docs.astral.sh/uv/) for the env (`brew install uv` if you don't have it). put `data-mining-raw.zip` from the datasets link below into `data/zip/`, then:
+
+```sh
+uv sync
+./data/unzip.sh
+```
+
+more on the data folders in [data/README.md](data/README.md).
+
+then open the notebooks in VS Code and pick the `.venv` kernel (or just run `uv run --with jupyter jupyter lab`):
+
+- `notebook/01_preprocessing.ipynb` = task 1–3 (preprocessing, popularity, transactions)
+- `notebook/02_modeling.ipynb` = task 4–6 (apriori, fp-growth, rules, perf comparison)
+
 ## Laporan
 - https://docs.google.com/document/d/1UAWZ0eh2OHCd9vdbjrabS1yxHxk49AGWkp1OzvF0tmI/edit?tab=t.0#heading=h.2sw6zqbo6jfr
 
